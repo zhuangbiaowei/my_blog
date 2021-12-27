@@ -1,9 +1,9 @@
 
 
 {
-  "name": "Chirpy",
-  "short_name": "Chirpy",
-  "description": "A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.",
+  "name": "读书、思考、生活",
+  "short_name": "读书、思考、生活",
+  "description": "识天地本心、教生民立命、为往圣传道学、为万世谋太平。",
   "icons": [
     {
       "src": "/my_blog/assets/img/favicons/android-chrome-192x192.png",
