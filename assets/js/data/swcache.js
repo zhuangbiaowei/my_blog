@@ -1,43 +1,43 @@
 const resource = [
 
   /* --- CSS --- */
-  '/assets/css/style.css',
+  '/my_blog/assets/css/style.css',
 
   /* --- JavaScripts --- */
   
-  '/assets/js/dist/home.min.js',
-  '/assets/js/dist/page.min.js',
-  '/assets/js/dist/post.min.js',
-  '/assets/js/dist/categories.min.js',
-  '/assets/js/data/search.json',
-  '/app.js',
-  '/sw.js',
+  '/my_blog/assets/js/dist/home.min.js',
+  '/my_blog/assets/js/dist/page.min.js',
+  '/my_blog/assets/js/dist/post.min.js',
+  '/my_blog/assets/js/dist/categories.min.js',
+  '/my_blog/assets/js/data/search.json',
+  '/my_blog/app.js',
+  '/my_blog/sw.js',
 
   /* --- HTML --- */
-  '/index.html',
-  '/404.html',
+  '/my_blog/index.html',
+  '/my_blog/404.html',
   
-    '/categories/',
+    '/my_blog/categories/',
   
-    '/tags/',
+    '/my_blog/tags/',
   
-    '/archives/',
+    '/my_blog/archives/',
   
-    '/about/',
+    '/my_blog/about/',
   
 
   /* --- Favicons --- */
   
 
-  '/assets/img/favicons/android-chrome-192x192.png',
-  '/assets/img/favicons/android-chrome-512x512.png',
-  '/assets/img/favicons/apple-touch-icon.png',
-  '/assets/img/favicons/favicon-16x16.png',
-  '/assets/img/favicons/favicon-32x32.png',
-  '/assets/img/favicons/favicon.ico',
-  '/assets/img/favicons/mstile-150x150.png',
-  '/assets/img/favicons/site.webmanifest',
-  '/assets/img/favicons/browserconfig.xml'
+  '/my_blog/assets/img/favicons/android-chrome-192x192.png',
+  '/my_blog/assets/img/favicons/android-chrome-512x512.png',
+  '/my_blog/assets/img/favicons/apple-touch-icon.png',
+  '/my_blog/assets/img/favicons/favicon-16x16.png',
+  '/my_blog/assets/img/favicons/favicon-32x32.png',
+  '/my_blog/assets/img/favicons/favicon.ico',
+  '/my_blog/assets/img/favicons/mstile-150x150.png',
+  '/my_blog/assets/img/favicons/site.webmanifest',
+  '/my_blog/assets/img/favicons/browserconfig.xml'
 
 ];
 
@@ -45,7 +45,7 @@ const resource = [
 const allowedDomains = [
   
 
-  '',
+  'localhost:4000',
 
   'fonts.gstatic.com',
   'fonts.googleapis.com',

@@ -1,33 +1,33 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>/</id>
+  <id>http://localhost:4000/my_blog/</id>
   <title>Chirpy</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2021-12-27T17:26:02+08:00</updated>
+  <updated>2021-12-27T17:40:11+08:00</updated>
   <author>
     <name>your_full_name</name>
-    <uri>/</uri>
+    <uri>http://localhost:4000/my_blog/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/my_blog/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="/"/>
+    href="http://localhost:4000/my_blog/"/>
   <generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
   <rights> © 2021 your_full_name </rights>
-  <icon>/assets/img/favicons/favicon.ico</icon>
-  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+  <icon>/my_blog/assets/img/favicons/favicon.ico</icon>
+  <logo>/my_blog/assets/img/favicons/favicon-96x96.png</logo>
 
 
   
   <entry>
     <title>开源学：开源史学纲要</title>
-    <link href="/posts/openology-historiography/" rel="alternate" type="text/html" title="开源学：开源史学纲要" />
+    <link href="http://localhost:4000/my_blog/posts/openology-historiography/" rel="alternate" type="text/html" title="开源学：开源史学纲要" />
     <published>2021-11-24T09:00:00+08:00</published>
   
     <updated>2021-11-24T09:00:00+08:00</updated>
   
-    <id>/posts/openology-historiography/</id>
-    <content src="/posts/openology-historiography/" />
+    <id>http://localhost:4000/my_blog/posts/openology-historiography/</id>
+    <content src="http://localhost:4000/my_blog/posts/openology-historiography/" />
     <author>
       <name>your_full_name</name>
     </author>
@@ -71,13 +71,13 @@
   
   <entry>
     <title>从法律思维的角度看代码——《Code 2.0》读后感</title>
-    <link href="/posts/legal-thinking-for-code/" rel="alternate" type="text/html" title="从法律思维的角度看代码——《Code 2.0》读后感" />
+    <link href="http://localhost:4000/my_blog/posts/legal-thinking-for-code/" rel="alternate" type="text/html" title="从法律思维的角度看代码——《Code 2.0》读后感" />
     <published>2021-11-20T10:02:00+08:00</published>
   
     <updated>2021-11-20T10:02:00+08:00</updated>
   
-    <id>/posts/legal-thinking-for-code/</id>
-    <content src="/posts/legal-thinking-for-code/" />
+    <id>http://localhost:4000/my_blog/posts/legal-thinking-for-code/</id>
+    <content src="http://localhost:4000/my_blog/posts/legal-thinking-for-code/" />
     <author>
       <name>your_full_name</name>
     </author>
@@ -119,13 +119,13 @@
   
   <entry>
     <title>我们需要建立“开放式架构”的思维模式</title>
-    <link href="/posts/open-architecture/" rel="alternate" type="text/html" title="我们需要建立“开放式架构”的思维模式" />
+    <link href="http://localhost:4000/my_blog/posts/open-architecture/" rel="alternate" type="text/html" title="我们需要建立“开放式架构”的思维模式" />
     <published>2021-11-16T09:00:00+08:00</published>
   
     <updated>2021-11-16T09:00:00+08:00</updated>
   
-    <id>/posts/open-architecture/</id>
-    <content src="/posts/open-architecture/" />
+    <id>http://localhost:4000/my_blog/posts/open-architecture/</id>
+    <content src="http://localhost:4000/my_blog/posts/open-architecture/" />
     <author>
       <name>your_full_name</name>
     </author>
@@ -177,13 +177,13 @@
   
   <entry>
     <title>什么是开源学？</title>
-    <link href="/posts/what-is-openology/" rel="alternate" type="text/html" title="什么是开源学？" />
+    <link href="http://localhost:4000/my_blog/posts/what-is-openology/" rel="alternate" type="text/html" title="什么是开源学？" />
     <published>2021-10-05T20:49:00+08:00</published>
   
     <updated>2021-10-05T20:49:00+08:00</updated>
   
-    <id>/posts/what-is-openology/</id>
-    <content src="/posts/what-is-openology/" />
+    <id>http://localhost:4000/my_blog/posts/what-is-openology/</id>
+    <content src="http://localhost:4000/my_blog/posts/what-is-openology/" />
     <author>
       <name>your_full_name</name>
     </author>
@@ -223,13 +223,13 @@
   
   <entry>
     <title>「开源学」：如何分门别类理解开源</title>
-    <link href="/posts/openology/" rel="alternate" type="text/html" title="「开源学」：如何分门别类理解开源" />
+    <link href="http://localhost:4000/my_blog/posts/openology/" rel="alternate" type="text/html" title="「开源学」：如何分门别类理解开源" />
     <published>2021-09-17T14:20:00+08:00</published>
   
     <updated>2021-09-17T14:20:00+08:00</updated>
   
-    <id>/posts/openology/</id>
-    <content src="/posts/openology/" />
+    <id>http://localhost:4000/my_blog/posts/openology/</id>
+    <content src="http://localhost:4000/my_blog/posts/openology/" />
     <author>
       <name>your_full_name</name>
     </author>

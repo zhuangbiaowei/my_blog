@@ -2,7 +2,7 @@
   
   {
     "title": "开源学：开源史学纲要",
-    "url": "/posts/openology-historiography/",
+    "url": "/my_blog/posts/openology-historiography/",
     "categories": "OpenSource, Openology, Historiography",
     "tags": "",
     "date": "2021-11-24 09:00:00 +0800",
@@ -17,7 +17,7 @@
   
   {
     "title": "从法律思维的角度看代码——《Code 2.0》读后感",
-    "url": "/posts/legal-thinking-for-code/",
+    "url": "/my_blog/posts/legal-thinking-for-code/",
     "categories": "OpenSource, Openology, Legal",
     "tags": "",
     "date": "2021-11-20 10:02:00 +0800",
@@ -32,7 +32,7 @@
   
   {
     "title": "我们需要建立“开放式架构”的思维模式",
-    "url": "/posts/open-architecture/",
+    "url": "/my_blog/posts/open-architecture/",
     "categories": "OpenSource, Openology, Architecture",
     "tags": "",
     "date": "2021-11-16 09:00:00 +0800",
@@ -47,7 +47,7 @@
   
   {
     "title": "什么是开源学？",
-    "url": "/posts/what-is-openology/",
+    "url": "/my_blog/posts/what-is-openology/",
     "categories": "OpenSource, Openology",
     "tags": "",
     "date": "2021-10-05 20:49:00 +0800",
@@ -62,7 +62,7 @@
   
   {
     "title": "「开源学」：如何分门别类理解开源",
-    "url": "/posts/openology/",
+    "url": "/my_blog/posts/openology/",
     "categories": "OpenSource, Openology",
     "tags": "",
     "date": "2021-09-17 14:20:00 +0800",
@@ -77,7 +77,7 @@
   
   {
     "title": "基于DevOps的开源治理",
-    "url": "/posts/DevOps-based-Open-Source-Governance/",
+    "url": "/my_blog/posts/DevOps-based-Open-Source-Governance/",
     "categories": "OpenSource, DevOps",
     "tags": "",
     "date": "2021-09-04 14:20:00 +0800",
@@ -92,7 +92,7 @@
   
   {
     "title": "产品经理的伦理学",
-    "url": "/posts/ehtics-of-product-manager/",
+    "url": "/my_blog/posts/ehtics-of-product-manager/",
     "categories": "Technology, Philosophy",
     "tags": "",
     "date": "2021-08-21 14:20:00 +0800",
@@ -107,7 +107,7 @@
   
   {
     "title": "为什么大家都喜欢在开源社区“吵架”？",
-    "url": "/posts/fighting-community/",
+    "url": "/my_blog/posts/fighting-community/",
     "categories": "OpenSource, Community",
     "tags": "",
     "date": "2021-07-08 14:20:00 +0800",
@@ -122,7 +122,7 @@
   
   {
     "title": "开源：献给世界的礼物",
-    "url": "/posts/opensource-gift/",
+    "url": "/my_blog/posts/opensource-gift/",
     "categories": "OpenSource, Anthropology",
     "tags": "",
     "date": "2021-06-15 14:20:00 +0800",
@@ -137,7 +137,7 @@
   
   {
     "title": "License之外，社区的规则与潜规则",
-    "url": "/posts/community-rules/",
+    "url": "/my_blog/posts/community-rules/",
     "categories": "OpenSource, Community",
     "tags": "",
     "date": "2021-06-05 14:20:00 +0800",
@@ -152,7 +152,7 @@
   
   {
     "title": "《禅与摩托车维修艺术》读后感",
-    "url": "/posts/about-zen-motorcycle/",
+    "url": "/my_blog/posts/about-zen-motorcycle/",
     "categories": "Technology, Philosophy",
     "tags": "",
     "date": "2021-05-23 08:53:00 +0800",
@@ -167,7 +167,7 @@
   
   {
     "title": "我所理解的开源软件供应链安全",
-    "url": "/posts/about-OSS-Supply-Chain/",
+    "url": "/my_blog/posts/about-OSS-Supply-Chain/",
     "categories": "OpenSource",
     "tags": "",
     "date": "2021-05-12 08:53:00 +0800",
@@ -182,7 +182,7 @@
   
   {
     "title": "作为一种实验的2050",
-    "url": "/posts/experiment-on-2050/",
+    "url": "/my_blog/posts/experiment-on-2050/",
     "categories": "Dairy",
     "tags": "",
     "date": "2021-04-30 16:30:00 +0800",
@@ -197,7 +197,7 @@
   
   {
     "title": "关于开源，回答牧川老师的一些疑问",
-    "url": "/posts/OSS-FAQ/",
+    "url": "/my_blog/posts/OSS-FAQ/",
     "categories": "Thinking, IT",
     "tags": "OpenSource, Education",
     "date": "2021-04-15 18:30:00 +0800",
@@ -212,7 +212,7 @@
   
   {
     "title": "姚班普信男--一篇后人类观察田野笔记",
-    "url": "/posts/yaoban-puxin-post-human-observation-field-notes/",
+    "url": "/my_blog/posts/yaoban-puxin-post-human-observation-field-notes/",
     "categories": "Anthropology",
     "tags": "Internet, FieldNotes",
     "date": "2021-04-13 12:20:00 +0800",
@@ -227,7 +227,7 @@
   
   {
     "title": "我们需要什么样的开源教育？",
-    "url": "/posts/What-kind-of-open-source-education-we-need/",
+    "url": "/my_blog/posts/What-kind-of-open-source-education-we-need/",
     "categories": "Thinking, IT",
     "tags": "OpenSource, Education",
     "date": "2021-04-04 18:20:00 +0800",
@@ -242,7 +242,7 @@
   
   {
     "title": "开源社区应该选择什么语言？",
-    "url": "/posts/What-language-used-for-open-source-communities/",
+    "url": "/my_blog/posts/What-language-used-for-open-source-communities/",
     "categories": "Thinking, IT",
     "tags": "OpenSource",
     "date": "2021-03-23 10:40:00 +0800",
@@ -257,7 +257,7 @@
   
   {
     "title": "围绕Code 2.0的一些随感",
-    "url": "/posts/about-code-2-0/",
+    "url": "/my_blog/posts/about-code-2-0/",
     "categories": "ComplexWorld",
     "tags": "Essay",
     "date": "2021-02-17 00:00:00 +0800",
@@ -272,7 +272,7 @@
   
   {
     "title": "再见 2020",
-    "url": "/posts/Goodbye-2020/",
+    "url": "/my_blog/posts/Goodbye-2020/",
     "categories": "Dairy",
     "tags": "Essay",
     "date": "2020-12-31 00:00:00 +0800",
@@ -287,7 +287,7 @@
   
   {
     "title": "读书札记",
-    "url": "/posts/Reading-Notes/",
+    "url": "/my_blog/posts/Reading-Notes/",
     "categories": "Reading",
     "tags": "Thinking",
     "date": "2020-12-20 00:00:00 +0800",
@@ -302,7 +302,7 @@
   
   {
     "title": "漫谈996",
-    "url": "/posts/about-996/",
+    "url": "/my_blog/posts/about-996/",
     "categories": "Dairy",
     "tags": "Essay",
     "date": "2019-04-05 13:07:00 +0800",
@@ -317,7 +317,7 @@
   
   {
     "title": "2017年度汉字——转",
-    "url": "/posts/annual-summary/",
+    "url": "/my_blog/posts/annual-summary/",
     "categories": "Dairy",
     "tags": "Essay",
     "date": "2017-12-31 21:02:00 +0800",
@@ -332,7 +332,7 @@
   
   {
     "title": "我是一个程序员，我想和简书聊聊",
-    "url": "/posts/talk-to-jianshu/",
+    "url": "/my_blog/posts/talk-to-jianshu/",
     "categories": "Dairy",
     "tags": "Essay",
     "date": "2017-12-16 09:50:00 +0800",
@@ -347,7 +347,7 @@
   
   {
     "title": "一念轮回，以及稀缺心理",
-    "url": "/posts/scarcity-psychology/",
+    "url": "/my_blog/posts/scarcity-psychology/",
     "categories": "Dairy",
     "tags": "psychology",
     "date": "2017-05-13 18:26:00 +0800",
@@ -362,7 +362,7 @@
   
   {
     "title": "聊聊“知识经济”",
-    "url": "/posts/knowledge-economy/",
+    "url": "/my_blog/posts/knowledge-economy/",
     "categories": "Dairy",
     "tags": "Community, Economy",
     "date": "2017-04-30 19:12:00 +0800",
@@ -377,7 +377,7 @@
   
   {
     "title": "为啥我现在沉迷于GitChat",
-    "url": "/posts/about-gitchat/",
+    "url": "/my_blog/posts/about-gitchat/",
     "categories": "Dairy",
     "tags": "Community",
     "date": "2017-02-25 15:26:00 +0800",
@@ -392,7 +392,7 @@
   
   {
     "title": "2016--聊聊读书",
-    "url": "/posts/about-reading/",
+    "url": "/my_blog/posts/about-reading/",
     "categories": "Reading",
     "tags": "Essay",
     "date": "2016-12-31 21:49:00 +0800",
@@ -407,7 +407,7 @@
   
   {
     "title": "阅读的自由",
-    "url": "/posts/freedom-to-read/",
+    "url": "/my_blog/posts/freedom-to-read/",
     "categories": "Reading",
     "tags": "Essay",
     "date": "2016-10-05 12:42:00 +0800",
@@ -422,7 +422,7 @@
   
   {
     "title": "读书的意义在哪里？",
-    "url": "/posts/about-reading-books/",
+    "url": "/my_blog/posts/about-reading-books/",
     "categories": "Reading",
     "tags": "Essay",
     "date": "2016-07-09 11:23:00 +0800",
@@ -437,7 +437,7 @@
   
   {
     "title": "如果你非要上百度，这里有三条忠告",
-    "url": "/posts/about-baidu/",
+    "url": "/my_blog/posts/about-baidu/",
     "categories": "Thinking, IT",
     "tags": "Essay",
     "date": "2016-05-02 21:38:00 +0800",
@@ -452,7 +452,7 @@
   
   {
     "title": "写字的自由——内篇",
-    "url": "/posts/writing-freedom-2/",
+    "url": "/my_blog/posts/writing-freedom-2/",
     "categories": "Writing",
     "tags": "Thinking",
     "date": "2016-02-22 00:00:00 +0800",
@@ -467,7 +467,7 @@
   
   {
     "title": "聊聊“新技术”",
-    "url": "/posts/talk-about-new-tech/",
+    "url": "/my_blog/posts/talk-about-new-tech/",
     "categories": "Thinking, IT",
     "tags": "WebFrontEnd",
     "date": "2016-01-25 00:37:00 +0800",
@@ -482,7 +482,7 @@
   
   {
     "title": "三代开源社区的协作模式",
-    "url": "/posts/gens-collaborative-model/",
+    "url": "/my_blog/posts/gens-collaborative-model/",
     "categories": "Thinking, IT",
     "tags": "OpenSource",
     "date": "2016-01-17 00:02:00 +0800",
@@ -497,7 +497,7 @@
   
   {
     "title": "写字的自由——外篇",
-    "url": "/posts/writing-freedom/",
+    "url": "/my_blog/posts/writing-freedom/",
     "categories": "Writing",
     "tags": "Thinking",
     "date": "2016-01-11 00:00:00 +0800",
@@ -512,7 +512,7 @@
   
   {
     "title": "快播案，一个猝不及防的时代的缩影",
-    "url": "/posts/kuaibo-tech-thinking/",
+    "url": "/my_blog/posts/kuaibo-tech-thinking/",
     "categories": "ThinkingIT",
     "tags": "Thinking, IT",
     "date": "2016-01-09 20:07:00 +0800",
@@ -527,7 +527,7 @@
   
   {
     "title": "四十不惑——写给2016年的自己",
-    "url": "/posts/40-years-old/",
+    "url": "/my_blog/posts/40-years-old/",
     "categories": "Dairy",
     "tags": "Essay",
     "date": "2016-01-03 23:31:00 +0800",
@@ -542,7 +542,7 @@
   
   {
     "title": "2006年的老PPT《Ajax技术地图》",
-    "url": "/posts/ajax-ppt/",
+    "url": "/my_blog/posts/ajax-ppt/",
     "categories": "Thinking, IT",
     "tags": "WebFrontEnd",
     "date": "2016-01-02 23:53:00 +0800",
@@ -557,7 +557,7 @@
   
   {
     "title": "你是从什么时候开始放弃学习的？",
-    "url": "/posts/give-up-learning/",
+    "url": "/my_blog/posts/give-up-learning/",
     "categories": "Dairy",
     "tags": "Essay",
     "date": "2015-12-12 23:40:00 +0800",
@@ -572,7 +572,7 @@
   
   {
     "title": "聊聊终生学习这件事",
-    "url": "/posts/Talking-about-lifelong-learning/",
+    "url": "/my_blog/posts/Talking-about-lifelong-learning/",
     "categories": "Dairy",
     "tags": "Essay",
     "date": "2015-11-30 23:34:00 +0800",
@@ -587,7 +587,7 @@
   
   {
     "title": "论架构师的自我修养",
-    "url": "/posts/self-cultivation-of-architects/",
+    "url": "/my_blog/posts/self-cultivation-of-architects/",
     "categories": "Thinking, IT",
     "tags": "Essay",
     "date": "2015-10-25 21:59:00 +0800",
@@ -602,7 +602,7 @@
   
   {
     "title": "试译：开源项目成功的十条准则",
-    "url": "/posts/Ten-Rules-for-Open-Source-Success/",
+    "url": "/my_blog/posts/Ten-Rules-for-Open-Source-Success/",
     "categories": "Thinking, IT",
     "tags": "OpenSource",
     "date": "2015-10-06 22:00:00 +0800",
@@ -617,7 +617,7 @@
   
   {
     "title": "黑客的胜利——读《增长黑客》有感",
-    "url": "/posts/victory-of-the-hackers/",
+    "url": "/my_blog/posts/victory-of-the-hackers/",
     "categories": "Thinking, IT",
     "tags": "Hacker, OpenSource",
     "date": "2015-09-11 07:00:50 +0800",
@@ -632,7 +632,7 @@
   
   {
     "title": "「民可使由之不可使知之」应该怎样断句？",
-    "url": "/posts/Literacy-in-ancient-languages/",
+    "url": "/my_blog/posts/Literacy-in-ancient-languages/",
     "categories": "Dairy",
     "tags": "Confucianism",
     "date": "2015-08-20 07:37:38 +0800",
@@ -647,7 +647,7 @@
   
   {
     "title": "你的团队是池塘？还是舰队？",
-    "url": "/posts/team-pond-or-fleet/",
+    "url": "/my_blog/posts/team-pond-or-fleet/",
     "categories": "Thinking, IT",
     "tags": "Management",
     "date": "2015-08-13 17:45:00 +0800",
@@ -662,7 +662,7 @@
   
   {
     "title": "从前慢——我希望有一个「慢社区」",
-    "url": "/posts/I-wish-there-was-a-slow-community/",
+    "url": "/my_blog/posts/I-wish-there-was-a-slow-community/",
     "categories": "Dairy",
     "tags": "Community",
     "date": "2015-07-05 20:45:00 +0800",
@@ -677,7 +677,7 @@
   
   {
     "title": "大公司效率低最根本的原因是什么?",
-    "url": "/posts/big-company/",
+    "url": "/my_blog/posts/big-company/",
     "categories": "Thinking, IT",
     "tags": "Management",
     "date": "2015-05-31 17:45:00 +0800",
@@ -692,7 +692,7 @@
   
   {
     "title": "28万个开源项目之番外篇",
-    "url": "/posts/Open-Source-Project-Analysis-2/",
+    "url": "/my_blog/posts/Open-Source-Project-Analysis-2/",
     "categories": "Thinking, IT",
     "tags": "OpenSource",
     "date": "2015-05-28 22:00:00 +0800",
@@ -707,7 +707,7 @@
   
   {
     "title": "从28万个开源项目中，我们能够学到一些什么？",
-    "url": "/posts/Open-Source-Project-Analysis/",
+    "url": "/my_blog/posts/Open-Source-Project-Analysis/",
     "categories": "Thinking, IT",
     "tags": "OpenSource",
     "date": "2015-05-12 22:47:00 +0800",
@@ -722,7 +722,7 @@
   
   {
     "title": "Free Software vs. Open Source",
-    "url": "/posts/Free-Software-vs-Open-Source/",
+    "url": "/my_blog/posts/Free-Software-vs-Open-Source/",
     "categories": "Thinking, IT",
     "tags": "OpenSource, FreeSoftware",
     "date": "2015-05-04 20:51:00 +0800",
@@ -737,7 +737,7 @@
   
   {
     "title": "如何评价一个新技术——以Docker为例",
-    "url": "/posts/How-to-evaluate-a-new-technology/",
+    "url": "/my_blog/posts/How-to-evaluate-a-new-technology/",
     "categories": "Thinking, IT",
     "tags": "OpenSource",
     "date": "2015-05-03 22:20:00 +0800",
@@ -752,7 +752,7 @@
   
   {
     "title": "不会太灰暗的未来",
-    "url": "/posts/a-future-that-is-not-too-gray/",
+    "url": "/my_blog/posts/a-future-that-is-not-too-gray/",
     "categories": "Thinking, IT",
     "tags": "Essay",
     "date": "2015-03-25 02:09:00 +0800",
@@ -767,7 +767,7 @@
   
   {
     "title": "开源项目也要讲注意力经济",
-    "url": "/posts/Open-source-attention-economy/",
+    "url": "/my_blog/posts/Open-source-attention-economy/",
     "categories": "Thinking, IT",
     "tags": "OpenSource",
     "date": "2015-03-11 20:50:00 +0800",
@@ -782,7 +782,7 @@
   
   {
     "title": "experience.exe",
-    "url": "/posts/experience.exe/",
+    "url": "/my_blog/posts/experience.exe/",
     "categories": "Thinking, IT",
     "tags": "Cloud",
     "date": "2015-03-01 22:38:00 +0800",
@@ -797,7 +797,7 @@
   
   {
     "title": "OpenSSL是否值得同情？",
-    "url": "/posts/about-openssl/",
+    "url": "/my_blog/posts/about-openssl/",
     "categories": "Thinking, IT",
     "tags": "OpenSource",
     "date": "2015-02-08 10:38:00 +0800",
@@ -812,7 +812,7 @@
   
   {
     "title": "转、进、定——我的2014",
-    "url": "/posts/my-2014/",
+    "url": "/my_blog/posts/my-2014/",
     "categories": "Dairy",
     "tags": "Essay",
     "date": "2014-12-31 23:18:00 +0800",
@@ -827,7 +827,7 @@
   
   {
     "title": "不要害怕做一个傻瓜",
-    "url": "/posts/Dont-be-afraid-to-be-a-fool/",
+    "url": "/my_blog/posts/Dont-be-afraid-to-be-a-fool/",
     "categories": "Dairy",
     "tags": "Essay",
     "date": "2014-08-18 23:26:00 +0800",
@@ -842,7 +842,7 @@
   
   {
     "title": "我能为开源做些什么？",
-    "url": "/posts/What-can-I-do-for-open-source/",
+    "url": "/my_blog/posts/What-can-I-do-for-open-source/",
     "categories": "Thinking, IT",
     "tags": "OpenSource",
     "date": "2014-06-11 20:50:00 +0800",
@@ -857,7 +857,7 @@
   
   {
     "title": "图形用户界面(GUI)应用开发的两种思路",
-    "url": "/posts/GUI-2-ways/",
+    "url": "/my_blog/posts/GUI-2-ways/",
     "categories": "Thinking, IT",
     "tags": "SoftwareEngineer",
     "date": "2014-06-11 20:30:00 +0800",
@@ -872,7 +872,7 @@
   
   {
     "title": "定论——软件开发的方法论探讨",
-    "url": "/posts/Definition-of-Software-Development/",
+    "url": "/my_blog/posts/Definition-of-Software-Development/",
     "categories": "Thinking, IT",
     "tags": "SoftwareEngineer",
     "date": "2014-06-10 19:46:00 +0800",
@@ -887,7 +887,7 @@
   
   {
     "title": "我是凉粉|《机器人历险记》|Web 2.0",
-    "url": "/posts/fans-and-requirements/",
+    "url": "/my_blog/posts/fans-and-requirements/",
     "categories": "Thinking, IT",
     "tags": "Product",
     "date": "2014-06-09 21:30:00 +0800",
@@ -902,7 +902,7 @@
   
   {
     "title": "一个不可原谅的bug",
-    "url": "/posts/An-unforgivable-bug/",
+    "url": "/my_blog/posts/An-unforgivable-bug/",
     "categories": "Thinking, IT",
     "tags": "Programming",
     "date": "2014-06-09 21:24:00 +0800",
@@ -917,7 +917,7 @@
   
   {
     "title": "软件开发文档的持续集成",
-    "url": "/posts/CI-for-document/",
+    "url": "/my_blog/posts/CI-for-document/",
     "categories": "Thinking, IT",
     "tags": "SoftwareEngineer",
     "date": "2014-06-09 17:38:00 +0800",
@@ -932,7 +932,7 @@
   
   {
     "title": "理想中的Ajax IDE",
-    "url": "/posts/ajax-ide/",
+    "url": "/my_blog/posts/ajax-ide/",
     "categories": "Thinking, IT",
     "tags": "Product",
     "date": "2014-06-08 22:03:00 +0800",
@@ -947,7 +947,7 @@
   
   {
     "title": "《代码大全》——软件开发的世界地图",
-    "url": "/posts/code-complete/",
+    "url": "/my_blog/posts/code-complete/",
     "categories": "Thinking, IT",
     "tags": "BookReview",
     "date": "2014-06-08 21:50:00 +0800",
@@ -962,7 +962,7 @@
   
   {
     "title": "ONLINE 2.0，这是一场硬仗！",
-    "url": "/posts/online-2.0/",
+    "url": "/my_blog/posts/online-2.0/",
     "categories": "Thinking, IT",
     "tags": "Product",
     "date": "2014-06-06 22:51:00 +0800",
@@ -977,7 +977,7 @@
   
   {
     "title": "Bloglines+del.icio.us",
-    "url": "/posts/Bloglines-del.icio.us/",
+    "url": "/my_blog/posts/Bloglines-del.icio.us/",
     "categories": "Thinking, IT",
     "tags": "Product",
     "date": "2014-06-06 22:44:00 +0800",
@@ -992,7 +992,7 @@
   
   {
     "title": "小型企业知识管理的好办法——Google四件宝",
-    "url": "/posts/knowledge-management/",
+    "url": "/my_blog/posts/knowledge-management/",
     "categories": "Thinking, IT",
     "tags": "",
     "date": "2014-06-06 22:36:00 +0800",
@@ -1007,7 +1007,7 @@
   
   {
     "title": "下一代搜索技术的四块积木",
-    "url": "/posts/Next-Generation-Search-Engine/",
+    "url": "/my_blog/posts/Next-Generation-Search-Engine/",
     "categories": "Thinking, IT",
     "tags": "",
     "date": "2014-06-04 22:33:00 +0800",
@@ -1022,7 +1022,7 @@
   
   {
     "title": "思考tags与主题词、敏捷与CMM、草根与精英",
-    "url": "/posts/Tags_and_CMM/",
+    "url": "/my_blog/posts/Tags_and_CMM/",
     "categories": "Thinking, IT",
     "tags": "SoftwareEngineer",
     "date": "2014-05-31 22:41:00 +0800",
@@ -1037,7 +1037,7 @@
   
   {
     "title": "聊我所理解的敏捷(Agile)——外一篇",
-    "url": "/posts/Agile-and-others/",
+    "url": "/my_blog/posts/Agile-and-others/",
     "categories": "Thinking, IT",
     "tags": "SoftwareEngineer",
     "date": "2014-05-13 22:14:00 +0800",
@@ -1052,7 +1052,7 @@
   
   {
     "title": "架构的力量",
-    "url": "/posts/power-of-architecture/",
+    "url": "/my_blog/posts/power-of-architecture/",
     "categories": "Thinking, IT",
     "tags": "",
     "date": "2014-04-27 12:01:00 +0800",
@@ -1067,7 +1067,7 @@
   
   {
     "title": "iMIS为什么会失败？",
-    "url": "/posts/iMIS/",
+    "url": "/my_blog/posts/iMIS/",
     "categories": "Thinking, IT",
     "tags": "OpenSource",
     "date": "2014-04-26 09:16:00 +0800",
@@ -1082,7 +1082,7 @@
   
   {
     "title": "Java社群该向Ruby on Rails学习些什么？",
-    "url": "/posts/Java-To-Rails/",
+    "url": "/my_blog/posts/Java-To-Rails/",
     "categories": "Thinking, IT",
     "tags": "OpenSource",
     "date": "2014-04-26 08:58:00 +0800",
@@ -1097,7 +1097,7 @@
   
   {
     "title": "外国大牛也不过如此——《梦断代码》读后感",
-    "url": "/posts/dreaming-in-code/",
+    "url": "/my_blog/posts/dreaming-in-code/",
     "categories": "Thinking, IT",
     "tags": "OpenSource",
     "date": "2014-04-24 11:34:00 +0800",
@@ -1112,7 +1112,7 @@
   
   {
     "title": "SNS、IM、BBS与JavaEye",
-    "url": "/posts/SNS-IM-BBS-JavaEye/",
+    "url": "/my_blog/posts/SNS-IM-BBS-JavaEye/",
     "categories": "Thinking, IT",
     "tags": "",
     "date": "2014-04-23 09:28:00 +0800",
