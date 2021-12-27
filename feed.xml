@@ -1,0 +1,275 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>/</id>
+  <title>Chirpy</title>
+  <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
+  <updated>2021-12-27T17:26:02+08:00</updated>
+  <author>
+    <name>your_full_name</name>
+    <uri>/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="/"/>
+  <generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
+  <rights> © 2021 your_full_name </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>开源学：开源史学纲要</title>
+    <link href="/posts/openology-historiography/" rel="alternate" type="text/html" title="开源学：开源史学纲要" />
+    <published>2021-11-24T09:00:00+08:00</published>
+  
+    <updated>2021-11-24T09:00:00+08:00</updated>
+  
+    <id>/posts/openology-historiography/</id>
+    <content src="/posts/openology-historiography/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+    <category term="OpenSource" />
+    
+    <category term="Openology" />
+    
+    <category term="Historiography" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      按照上一篇文章的描述，我试着从历史学的角度，来切入“开源学”的话题。所谓纲要，其实就是一个提纲，作为一个历史学的外行，来畅想一下：假设我是一个历史学家，我会如何来研究开源。
+
+一、从历史看开源
+
+我最喜欢的历史学家钱穆先生，在《国史大纲》的前言中说道：“治国史之第一任务，在能于国家民族之内部自身，求得其独特精神之所在。” 按照同样的思路来看开源的发展史，也不能仅仅把一堆人物、事件、技术、企业罗列出来，而是要寻求发展背后的独特的“精神”所在。是什么促成了开源的出现？又是什么，推动开源不断的发展变化？
+
+1. 开源的史料在哪里？
+
+当然，研究历史，基本功还是要有。首先，就是收集史料。但是，开源的史料在哪里呢？第二个问题：开源的史料，如何整理呢？
+
+目前看来，开源相关的信息，绝大多数，都是在互联网上以公开信息的形式，存在着的。但是，要想完整全面的收集，却非常困难。
+
+如下所示，是我最近正在...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>从法律思维的角度看代码——《Code 2.0》读后感</title>
+    <link href="/posts/legal-thinking-for-code/" rel="alternate" type="text/html" title="从法律思维的角度看代码——《Code 2.0》读后感" />
+    <published>2021-11-20T10:02:00+08:00</published>
+  
+    <updated>2021-11-20T10:02:00+08:00</updated>
+  
+    <id>/posts/legal-thinking-for-code/</id>
+    <content src="/posts/legal-thinking-for-code/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+    <category term="OpenSource" />
+    
+    <category term="Openology" />
+    
+    <category term="Legal" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      《Code 2.0》是一本常读常新的书，不时翻阅，也常常会有新的收获。
+
+这次建盛的开源之道读书会，又组织了一次《Code 2.0》的共读活动，大家开了一个腾讯会议，各自聊聊从这本书里读到的感想。果不其然，畅谈之后，作业就来了。
+
+会上说了一次，群里又催了一次，我也答应了，周末写出来。
+
+理解 Lessig 的思路
+
+首先，Lawrence Lessig是一位法学家，而且是一位密切关注技术发展的法学家。因此，《Code 2.0》这本书的出发点，依然是法学的立场。在书中，作者总结了四种规制的类型：法律、社群规范、市场与架构。而我之前的另一个总结，则是从时间维度来梳理的：情、礼、法、Code，随着时代的进步，规制的手段会越来越依赖于架构/Code。
+
+虽然，早期互联网的理想主义者们，希望互联网永远是一片“法外之地”，但是法学家的看法才是更加深刻的。政府、法律、规制的力量，一定会进来。不但...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>我们需要建立“开放式架构”的思维模式</title>
+    <link href="/posts/open-architecture/" rel="alternate" type="text/html" title="我们需要建立“开放式架构”的思维模式" />
+    <published>2021-11-16T09:00:00+08:00</published>
+  
+    <updated>2021-11-16T09:00:00+08:00</updated>
+  
+    <id>/posts/open-architecture/</id>
+    <content src="/posts/open-architecture/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+    <category term="OpenSource" />
+    
+    <category term="Openology" />
+    
+    <category term="Architecture" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      今天在听CHAOSS China的一档播客节目《Episode#01-聊一聊有机的开源运营》，突然连贯着想通了一个架构方面的问题。
+
+1. 自建模式
+
+早期的架构，早期的代码，我们几乎都是从头开始的。所以，所有的问题都由我们自己解决，当然所有的风险也都是我们自己造成的。
+
+设计模式
+
+那20多个设计模式，每一行代码我们都看在眼里。要在自己的项目里使用，当然也是一个字母，一个字母的敲进电脑里。
+
+即使后来的IDE工具非常先进，能够帮忙自动生成代码，或者帮忙重构代码。那些代码，依然是我们自己掌控的。
+
+架构模式
+
+在自建一切的概念下，架构当然也是我们自己搞定。ER图是我们自己画的，数据库表结构是我们从头定义的。每一个模块，我们分工以后，也是一个一个的写出来的。
+
+我们会阅读一些技术文章，了解一些最新技术。然后：还是会自己去写代码。在开源繁荣之前
+
+2. 黑洞模式
+
+当开源越来越多之后，我...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>什么是开源学？</title>
+    <link href="/posts/what-is-openology/" rel="alternate" type="text/html" title="什么是开源学？" />
+    <published>2021-10-05T20:49:00+08:00</published>
+  
+    <updated>2021-10-05T20:49:00+08:00</updated>
+  
+    <id>/posts/what-is-openology/</id>
+    <content src="/posts/what-is-openology/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+    <category term="OpenSource" />
+    
+    <category term="Openology" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      在上一篇文章《「开源学」：如何分门别类理解开源》中，我第一次尝试提出“开源学”这个名词，但是，本质上这只是一个“书单”。里面罗列了很多我看过的，想看的，甚至只是听说过的书。当然，还喊了一些口号，比如：“以万法观开源，由开源融万法”。
+
+但是，什么是开源学，并没有得到很好的解释与介绍。因此，还需要另外一篇文章，认真的来介绍一下：“什么是开源学？”
+
+在上一次演讲时，我还没有看过任何一本教育学相关的书籍，所以只能很惭愧的，放了一张约翰·杜威的照片，算是撑撑场面。最近我真的开始看教育学的书了，目前正在看的是叶澜老师的《教育概论》，一本非常好的书。人家就把教育和教育学，定义得清清楚楚的。
+
+比如：教育是有意识的以影响人的身心发展为直接目标的社会活动。那么，教育学，自然就是研究这一社会活动的一门学问。但是，开源学，却不能这么定义。
+
+以万法观开源
+
+在上一篇文章中，我提到了可以分门别类，使用历...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>「开源学」：如何分门别类理解开源</title>
+    <link href="/posts/openology/" rel="alternate" type="text/html" title="「开源学」：如何分门别类理解开源" />
+    <published>2021-09-17T14:20:00+08:00</published>
+  
+    <updated>2021-09-17T14:20:00+08:00</updated>
+  
+    <id>/posts/openology/</id>
+    <content src="/posts/openology/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+    <category term="OpenSource" />
+    
+    <category term="Openology" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      来自：OSCAR开源大会，下午场的演讲。
+
+引言
+
+我们拥抱开源需要知识的导引，那么开源究竟是什么？有没有一个明确的指引的点，让任何人都可以去遵照执行，是现代人的困惑。
+
+在 OSCAR 2021 的大会上，我们非常荣幸的邀请到了开源社理事，2020、2021年度理事长，庄表伟先生，他在开源圈卜有着相当高的声望和知名度，也一直在开源的世界里耕耘，并会提携年轻人。最近他本人也加入了华为开源能力中心，我们就看看他是如何看待开源世界里的知识的。
+
+
+
+很高兴今天能够来到北京来到这样一个分会场来讲一个天大地大的题目：
+
+
+
+这个题目大到什么程度了呢？当我看到这个题目的时候，当时就一激灵，这种题目也想的出来，适兕邀请我，让我讲「开源学」，让我分门别类的讲开源。大家参加过开源读书会的人知道，这是一直以来所有人的理想，适兕本人也一直在研究开源，他让我来讲，我对此表示感谢。所以对我来说，我能够把这个...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
